@@ -39,6 +39,11 @@ h6, .h6 {
     color: #fff;
 }
 
+.blog-nav li.current-menu-item {
+  background: #3FAEA5;
+  color:#fff;
+}
+
 /*
  * Override Bootstrap's default container.
  */
@@ -143,6 +148,16 @@ h6, .h6 {
   margin-bottom: 0;
 }
 
+
+@media (max-width: 768px) {
+  .sidebar {
+    padding: 0;
+  }
+
+  .sidebar-module {
+    padding: 0;
+  }
+}
 
 /* Pagination */
 .pager {

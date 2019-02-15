@@ -13,9 +13,9 @@
 		<div class="sidebar-module-inset">
 			<h4>Social Media</h4>
 			<ol class="list-unstyled">
-				<li><a href="#">GitHub</a></li>
-				<li><a href="#">Instagram</a></li>
-				<li><a href="#">Linkedin</a></li>
+				<li><a href="https://github.com/awcooper">GitHub</a></li>
+				<li><a href="https://www.instagram.com/adam.w.cooper/">Instagram</a></li>
+				<li><a href="https://www.linkedin.com/in/adam-cooper-16924186">Linkedin</a></li>
 			</ol>
 		</div>
 	</div>
