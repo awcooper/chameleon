@@ -129,7 +129,7 @@ h6, .h6 {
   margin-bottom: 15px;
 }
 
-.sidebar: {
+.sidebar {
   padding: 15px;
 }
 
@@ -202,18 +202,22 @@ a:hover {
 
 .blog-footer {
   padding: 5px 0;
-  color: #999;
+  color: #000;
   margin-top: 30px;
   text-align: center;
-  background-color: #fff;
-  border-top: 1px solid #e5e5e5;
+  background-color: #000;
+  border-top: 1px solid #000;
 }
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
 
+p.footer-tag a {
+    color: white;
+}
+
 footer {
-    background-color: orange;
+    background-color: black;
     position: absolute;
     left: 0;
     bottom: 0;

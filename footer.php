@@ -1,7 +1,7 @@
     </div> <!-- /.container -->
 
 		<footer class="blog-footer">
-      <p><a href="https://github.com/awcooper/chameleon">Chameleon</a> by <a href="https://github.com/awcooper/">Adam Cooper</a>.</p>
+      <p class="footer-tag"><a href="https://github.com/awcooper/chameleon">Chameleon</a> by <a href="https://github.com/awcooper/">Adam Cooper</a>.</p>
     </footer>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
